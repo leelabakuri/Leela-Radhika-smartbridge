@@ -109,12 +109,9 @@ To deploy the project (e.g., using **Netlify** or **Vercel**):
 
 Contributions are always welcome! Feel free to fork the repository and submit a pull request with any new features or bug fixes.
 
-## 📜 License
-
-This project is licensed under the [MIT License](./LICENSE).
 
 ## ✉️ Contact
 
 For any questions or feedback, feel free to reach out:
 
-- **Email**: priyanshumth0808@gmail.com
+- **Email**: leelaradhikabakuri@gmail.com
